@@ -2,7 +2,7 @@
 
 ---
 
-**`Desenvolvedor Backend / Mobile´**
+**Desenvolvedor Backend / Mobile**
 
 Me chamo **Nicolas Leite Maziero Vieira**, tenho 20 anos e sou de São Paulo.  
 Atualmente curso **Engenharia de Software (2º semestre)**.
