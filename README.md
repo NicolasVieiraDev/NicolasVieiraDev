@@ -7,7 +7,7 @@
 Me chamo **Nicolas Leite Maziero Vieira**, tenho 20 anos e sou de São Paulo.  
 Atualmente curso **Engenharia de Software (2º semestre)**.
 
-Concluí formações como **Java Completo**, **Programação Orientada a Objetos** e **Spring Boot**, além da certificação **AI-900**. No momento, estou me aprofundando em **SQL** e fortalecendo minhas bases na área.
+Estou cursando formações como **Java Completo**, **Programação Orientada a Objetos** e **Spring Boot**, além da certificação **AI-900**. No momento, estou me aprofundando em **SQL** e fortalecendo minhas bases na área.
 
 Tenho grande interesse em **Desenvolvimento Backend** e **Mobile**, onde posso aplicar minha lógica, criatividade e vontade de resolver problemas reais.  
 Minha maior motivação é gerar soluções que impactem positivamente a vida das pessoas e tornar a tecnologia um caminho cada vez mais útil para isso.
@@ -88,8 +88,8 @@ Meu objetivo é **ingressar no mercado de tecnologia** e me tornar uma **referê
 
 
 ### 📘 O que estou estudando atualmente
-- SQL avançado  
-- Spring Boot  
+- SQL  
+- Java + OO  
 - Estrutura de Dados  
 - Fundamentos de Mobile
 
@@ -97,5 +97,5 @@ Meu objetivo é **ingressar no mercado de tecnologia** e me tornar uma **referê
 
 ### 📬 Entre em contato comigo
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/nicolas-vieira-bb3514335/) •  
-E-mail: **nvieira0605@gmail.com** (se quiser incluir)
+E-mail: **nvieira0605@gmail.com**
 Whatsapp: **(12) 99636-7117**
