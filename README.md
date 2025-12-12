@@ -1,101 +1,54 @@
-## 👩🏻‍💻 Nicolas Vieira
+# 👋 Hi, I'm Nicolas Vieira you're welcome!
+
+**Backend Developer | Software Engineering Student**
+
+📍 São Paulo, Brazil 
+🎯 I seek to create solutions that positively impact people's lives through technology.
 
 ---
 
-**Desenvolvedor Backend / Mobile**
+## 🏆 Who am I?
 
-Me chamo **Nicolas Leite Maziero Vieira**, tenho 20 anos e sou de São Paulo.  
-Atualmente curso **Engenharia de Software (2º semestre)**.
-
-Estou cursando formações como **Java Completo**, **Programação Orientada a Objetos** e **Spring Boot**, além da certificação **AI-900**. No momento, estou me aprofundando em **SQL** e fortalecendo minhas bases na área.
-
-Tenho grande interesse em **Desenvolvimento Backend** e **Mobile**, onde posso aplicar minha lógica, criatividade e vontade de resolver problemas reais.  
-Minha maior motivação é gerar soluções que impactem positivamente a vida das pessoas e tornar a tecnologia um caminho cada vez mais útil para isso.
-
-Minhas principais conquistas incluem a certificação **AI-900**, projetos práticos em andamento e minha constante busca por evolução.  
-Meu objetivo é **ingressar no mercado de tecnologia** e me tornar uma **referência profissional na área**.
-
-📎 **LinkedIn:** [Clique aqui para acessar meu perfil](https://www.linkedin.com/in/nicolas-vieira-bb3514335/)
-
----
-### 🤖 Linguagens e tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="JAVA"
-    title="JAVA" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="SPRINGBOOT"
-    title="SPRINGBOOT" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="MYSQL"
-    title="MYSQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="GIT"
-    title="GIT" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-
-### 📘 O que estou estudando atualmente
-- SQL  
-- Java + OO  
-- Estrutura de Dados  
-- Fundamentos de Mobile
+My name is **Nicolas Leite Maziero Vieira**, I am 20 years old and I am studying **Software Engineering (2nd semester)**.
+Currently, I am deepening my knowledge of **Java**, **SQL**, and **Data Structures**, while improving my foundations in **Object-Oriented Programming**.  
+My greatest motivation is **solving real-world problems using logic, creativity, and technology**.
 
 ---
 
-### 📬 Entre em contato comigo
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/nicolas-vieira-bb3514335/) •  
-E-mail: **nvieira0605@gmail.com**
-Whatsapp: **(12) 99636-7117**
+## 💻 Technologies and Tools
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📘 Current Studies
+
+- Data Structures
+- Best Practices
+- Java + Object-Oriented Programming
+- Advanced SQL
+
+---
+
+## 🚀 Featured Projects
+- **[To-Do List](https://github.com/NicolasVieiraDev/todo-list-java)** – Study project applying lists and loops.
+- **[FastMath](https://github.com/NicolasVieiraDev/fastmath)** – Java-based system with object-oriented functionality and file persistence.
+
+---
+
+## 📬 Contact
+- **LinkedIn:** [Clique aqui](https://www.linkedin.com/in/nicolas-vieira-bb3514335/)  
+- **E-mail:** nvieira0605@gmail.com  
+- **WhatsApp:** +55 12 99636-7117
+
+---
+
+## 🏅 Conquistas
+- Certificação **AI-900**  
+- Projetos práticos em andamento  
+- Constante evolução em programação e tecnologias
