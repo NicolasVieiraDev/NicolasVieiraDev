@@ -38,6 +38,7 @@ My greatest motivation is **solving real-world problems using logic, creativity,
 ## 🚀 Featured Projects
 - **[To-Do List](https://github.com/NicolasVieiraDev/todo-list-java)** – Study project applying lists and loops.
 - **[FastMath](https://github.com/NicolasVieiraDev/fastmath)** – Java-based system with object-oriented functionality and file persistence.
+- **[Guess-the-Number](https://github.com/NicolasVieiraDev/guess-the-number-java)** - Java-based system with enums functionality.
 
 ---
 
